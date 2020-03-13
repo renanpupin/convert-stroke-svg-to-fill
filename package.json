@@ -1,0 +1,14 @@
+{
+  "name": "convert-stroke-svg-to-fill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "svg-outline-stroke": "^1.2.4"
+  }
+}
